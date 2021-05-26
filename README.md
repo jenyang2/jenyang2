@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Jen's%20GitHub&fontSize=90)
+
 ### Hi there 👋
 
 <!--
